@@ -8,4 +8,9 @@ console.log(prenom);
 
 let elementParagraphe = document.querySelector ('#para')
 
-elementParagraphe.textContent = prenom
+elementParagraphe.textContent = prenom;
+
+elementParagraphe.style.color = 'red';
+elementParagraphe.style.backgroundColor = 'blue';
+elementParagraphe.style.fontWeight = 'bold';
+
