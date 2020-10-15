@@ -1,8 +1,17 @@
 let y = 2;
-for (x=0; x<10; x++) {
-    let result = y * x
+
+
+
+for (x=2; x<101; x++){
+    let result = x / y;
 }
 
 let prenom = 'Elena'
-let age = 31 
-console.log(prenom + ' a ' + age + ' ans et adore coder');
+let age = 31;
+
+
+let etoile = "";
+for (let x=0; x<6; x++){
+    etoile +="*"
+    console.log(etoile);
+}
