@@ -1,10 +1,14 @@
 let button = document.querySelector('button')
 let para = document.querySelector('#mon-para')
 let select = document.querySelector('#select-color')
+let a = 'я тебя люблю'
+let b = 'beaucoup'
+para.textContent = a
+
+//comment faire click et revenir à l'arrière. Un seul '=' set la variable, double '=' vérifie si elle est égale
 
 button.addEventListener('click', function() {
-    const a = '1'
-    const b = '0'
+    
     if (para.textContent == a) {
         para.textContent = b
     } else {
