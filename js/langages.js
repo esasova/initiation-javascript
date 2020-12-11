@@ -5,4 +5,4 @@ lienElt.textContent = 'liste';
 paraElt.appendChild(document.createTextNode('En voici une '));
 paraElt.appendChild(lienElt);
 paraElt.appendChild(document.createTextNode(' plus complète'));
-console.log(paraElt);
+document.getElementById('contenu').appendChild(paraElt);
