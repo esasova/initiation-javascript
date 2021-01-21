@@ -6,5 +6,5 @@ Différents exercices de JS trouvés sur internet ou suggerés dans la classe :
 - parcourir le DOM (classes, id, balises, attributs, éléments de tableau)
 - piramide (boucle for)
 - getNumber (async/await)
-- chenger le DOM
+- changer le DOM
 
