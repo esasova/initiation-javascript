@@ -7,4 +7,5 @@ Différents exercices de JS trouvés sur internet ou suggerés dans la classe :
 - piramide (boucle for)
 - getNumber (async/await)
 - changer le DOM
+- boucles for..of et for...in pour les tableaux et les objets
 
